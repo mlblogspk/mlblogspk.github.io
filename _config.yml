@@ -2,4 +2,4 @@ remote_theme:  just-the-docs
 
 theme: jekyll-theme-slate
 extra_javascript:
-    extra.js
+    extras.js
