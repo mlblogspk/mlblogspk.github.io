@@ -1,5 +1,1 @@
-remote_theme:  just-the-docs
-
-theme: jekyll-theme-slate
-extra_javascript:
-    extras.js
+remote_theme:  DigitalMindCH/gridster-jekyll-theme
